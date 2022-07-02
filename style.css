@@ -1,0 +1,28 @@
+h1{
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:50px;
+    border: solid red;
+    padding: 1%;
+    text-align: center;
+   
+   } 
+   #google{
+    color: rgb(186, 8, 44);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    background-color: rgb(145, 173, 169);
+
+   }
+   p{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: 800;
+    text-align: center;
+   }
+   h2{
+    color: rgb(36, 61, 11);
+    text-align: center;
+    
+   }
